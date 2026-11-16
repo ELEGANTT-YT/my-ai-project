@@ -1,0 +1,10 @@
+AM STUDIO LOGO FILES
+
+1) Copy all PNG files into the same project folder as index.html, About.html, services.html, Blog.html, Contact.html and style.css.
+2) In the <head> section of EACH HTML page, add:
+
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+3) Keep the logo-512.png and am-studio-logo.png files for the full brand logo / larger uses.
+4) Refresh the browser. On a live website, Google may take time to recrawl the favicon; displaying it in Google Search is not immediate or guaranteed.
